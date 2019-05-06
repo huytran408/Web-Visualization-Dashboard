@@ -1,0 +1,23 @@
+
+body {
+  background: #f1f1f1;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+
+#image {
+	width: 60%;
+	height: 60%;
+	margin: 10px;
+	padding: 20px;
+  }
+.img-border {
+	margin: 2px;
+    
